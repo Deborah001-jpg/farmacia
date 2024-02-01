@@ -6,7 +6,7 @@ const Footer = () => {
 
     return (
 
-        <div className="flex justify-center bg-white-400 text-violet-400">
+        <div className="flex justify-center bg-white-400 text-violet-600">
             <div className="container flex flex-col items-center py-4">
                 <p className='text-xl font-bold'>Farmácia | Feito por: Débora Rodrigues </p>
                 <p className='text-lg'>Acesse nossas redes sociais</p>
